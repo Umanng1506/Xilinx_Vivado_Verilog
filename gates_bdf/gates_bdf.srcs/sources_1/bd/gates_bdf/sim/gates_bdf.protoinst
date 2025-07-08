@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"gates_bdf": {
+			"proto_instances": {
+			}
+		}
+	}
+}
