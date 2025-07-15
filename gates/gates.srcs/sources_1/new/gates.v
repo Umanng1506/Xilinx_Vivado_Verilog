@@ -35,10 +35,4 @@ module gates(
     assign y_or = a|b;
     assign y_nor = ~(a|b);
     assign y_xor = a^b;
-        
-
-
-    
-           
-    
 endmodule

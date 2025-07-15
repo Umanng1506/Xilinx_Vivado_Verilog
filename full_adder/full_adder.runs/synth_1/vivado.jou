@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Jul 11 15:01:27 2025
+# Process ID: 25652
+# Current directory: E:/College/Verilog_practice/full_adder/full_adder.runs/synth_1
+# Command line: vivado.exe -log full_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source full_adder.tcl
+# Log file: E:/College/Verilog_practice/full_adder/full_adder.runs/synth_1/full_adder.vds
+# Journal file: E:/College/Verilog_practice/full_adder/full_adder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source full_adder.tcl -notrace

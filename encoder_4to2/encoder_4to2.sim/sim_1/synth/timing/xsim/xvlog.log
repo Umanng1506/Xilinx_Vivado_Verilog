@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/College/Verilog_practice/encoder_4to2/encoder_4to2.sim/sim_1/synth/timing/xsim/encoder_4to2_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encoder_4to2
+INFO: [VRFC 10-311] analyzing module glbl
